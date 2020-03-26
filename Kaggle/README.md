@@ -4,12 +4,10 @@
 
 MNIST dataset contains images of handwritten digits. It is one of the most common datasets used for image classifcation. It has 60,000 28x28 grayscale images under the training set and 10,000 28x28 grayscale images under the test set. Each pixel has a value between 0 and 255.
 
-<centre>Sample Images From The MNIST Database<centre>
-
 <p  align="center">
 
 <img  alt="Sample Images From The MNIST Database"  src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png">
-
+Sample Images From The MNIST Database
 </p>
 
 <br/>
